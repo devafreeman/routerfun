@@ -1,0 +1,14 @@
+#routeNav {
+    height: 8%;
+    width: 100%;
+    border: 2px solid aqua;
+}
+#mess {
+    display:flex;
+    flex-direction: row;
+
+}
+#home {
+    display:flex;
+    flex-wrap: wrap-reverse;
+}
